@@ -1,0 +1,10 @@
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.Repository\bin\Debug\MyKey.Repository.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.Repository\bin\Debug\MyKey.Repository.pdb
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.Repository\bin\Debug\Dapper.Contrib.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.Repository\bin\Debug\Dapper.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.Repository\bin\Debug\Dapper.xml
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.Repository\bin\Debug\Dapper.Contrib.xml
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.Repository\obj\Debug\MyKey.Repository.csprojResolveAssemblyReference.cache
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.Repository\obj\Debug\MyKey.Repository.csproj.CoreCompileInputs.cache
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.Repository\obj\Debug\MyKey.Repository.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.Repository\obj\Debug\MyKey.Repository.pdb

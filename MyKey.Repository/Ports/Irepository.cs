@@ -4,14 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyKey.Repository
+namespace MyKey.Repository.Ports
 {
-    public class Class1
+    public interface Irepository<T>where T: class
     {
-
-
-
-
-
+       
     }
 }

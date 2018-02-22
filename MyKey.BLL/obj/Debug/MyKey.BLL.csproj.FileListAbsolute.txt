@@ -1,0 +1,6 @@
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\bin\Debug\MyKey.BLL.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\bin\Debug\MyKey.BLL.pdb
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\obj\Debug\MyKey.BLL.csprojResolveAssemblyReference.cache
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\obj\Debug\MyKey.BLL.csproj.CoreCompileInputs.cache
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\obj\Debug\MyKey.BLL.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\obj\Debug\MyKey.BLL.pdb

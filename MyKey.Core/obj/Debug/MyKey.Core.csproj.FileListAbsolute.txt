@@ -1,0 +1,6 @@
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.Core\bin\Debug\MyKey.Core.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.Core\bin\Debug\MyKey.Core.pdb
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.Core\obj\Debug\MyKey.Core.csprojResolveAssemblyReference.cache
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.Core\obj\Debug\MyKey.Core.csproj.CoreCompileInputs.cache
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.Core\obj\Debug\MyKey.Core.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.Core\obj\Debug\MyKey.Core.pdb
