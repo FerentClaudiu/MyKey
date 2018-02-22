@@ -10,6 +10,11 @@ namespace MyKey.Repository
 {
     public class ProduseRepository : Irepository<ProduseEntity>
     {
-      
+      public ProduseEntity GetProduseById(int Id)
+        {
+
+        }
+
+
     }
 }

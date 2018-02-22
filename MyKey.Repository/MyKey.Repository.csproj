@@ -48,7 +48,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Entity\CategorieEntity.cs" />
+    <Compile Include="Entity\CategorieProdusEntity.cs" />
+    <Compile Include="Entity\LocksmithEntity.cs" />
     <Compile Include="Entity\ProduseEntity.cs" />
+    <Compile Include="Entity\RegisterEntity.cs" />
+    <Compile Include="Entity\TabelImaginiEntity.cs" />
     <Compile Include="Ports\Irepository.cs" />
     <Compile Include="Ports\Repository.cs" />
     <Compile Include="ProduseRepository.cs" />
