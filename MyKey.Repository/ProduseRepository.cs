@@ -12,7 +12,7 @@ namespace MyKey.Repository
     {
       public ProduseEntity GetProduseById(int Id)
         {
-
+            return GetProduseById(Id);
         }
 
 
