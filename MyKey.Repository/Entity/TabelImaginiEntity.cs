@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 
 namespace MyKey.Repository.Entity
 {
-    [Table("TabelImagini")]
+    [Table("dbo.TabelImagini")]
     public class TabelImaginiEntity
     {
         [Key]
-        public byte[] IDImagini;
+        public int IDImagini { get; set; }
 
-        public byte[] NumeImagine;
+        public string NumeImagine { get; set; }
 
-        public byte[] Imagine;
+        public byte[] Imagine { get; set; }
     }
 }

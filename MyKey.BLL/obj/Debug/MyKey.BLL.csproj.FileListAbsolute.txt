@@ -4,3 +4,9 @@ E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\obj\Debug\MyKey.BLL.csprojResolveAssemblyR
 E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\obj\Debug\MyKey.BLL.csproj.CoreCompileInputs.cache
 E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\obj\Debug\MyKey.BLL.dll
 E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\obj\Debug\MyKey.BLL.pdb
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\bin\Debug\MyKey.Repository.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\bin\Debug\Dapper.Contrib.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\bin\Debug\Dapper.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\bin\Debug\MyKey.Repository.pdb
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\bin\Debug\Dapper.Contrib.xml
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\bin\Debug\Dapper.xml

@@ -30,6 +30,7 @@ namespace MyKey.Repository
             return GetTabelImaginiUpdate(entity);
         }
 
+
         public TabelImaginiEntity GetTabelImaginiGetAll()
         {
             return GetTabelImaginiGetAll();
