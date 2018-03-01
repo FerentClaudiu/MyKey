@@ -19,6 +19,11 @@ namespace MyKey.BLL
             _produseRepository = produseRepository;
         }
 
+        public void GetProduseById(int id)
+        {
+            return _produseRepository.GetProduseById(id);
+        }
+
         public void Save(ProduseEntity produse)
         {
             throw new NotImplementedException();
