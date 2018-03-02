@@ -40,6 +40,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CategoryService.cs" />
+    <Compile Include="ImageService.cs" />
+    <Compile Include="LocksmithService.cs" />
+    <Compile Include="Ports\ICategoryService.cs" />
+    <Compile Include="Ports\IImageService.cs" />
+    <Compile Include="Ports\ILocksmithService.cs" />
     <Compile Include="Ports\IProductService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ProductService.cs" />

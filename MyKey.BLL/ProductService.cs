@@ -19,7 +19,7 @@ namespace MyKey.BLL
             _produseRepository = produseRepository;
         }
 
-        public void GetProduseById(int id)
+        public object  GetProduseById(int id)
         {
             return _produseRepository.GetProduseById(id);
         }

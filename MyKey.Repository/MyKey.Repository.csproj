@@ -49,7 +49,6 @@
   <ItemGroup>
     <Compile Include="CategorieProdusRepository.cs" />
     <Compile Include="CategorieRepository.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="Entity\CategorieEntity.cs" />
     <Compile Include="Entity\CategorieProdusEntity.cs" />
     <Compile Include="Entity\LocksmithEntity.cs" />
