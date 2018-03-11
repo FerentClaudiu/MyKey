@@ -2,6 +2,7 @@
 using MyKey.Repository;
 using MyKey.Repository.Entity;
 using System;
+using MyKey.Core.Models;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -30,6 +31,12 @@ namespace MyKey.BLL
 
         private Categorie ConvertToCategorie(CategorieEntity categorieEntity)
         {
+            var categorie = new Categorie();
+
+            categorie.NumeCategorie = categorieEntity.NumeCategorie;
+            categorie.ID = categorieEntity.ID;
+
+            return categorie;
 
         }
     }

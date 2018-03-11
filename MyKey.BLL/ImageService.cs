@@ -2,6 +2,7 @@
 using MyKey.Repository;
 using MyKey.Repository.Entity;
 using System;
+using MyKey.Core.Models;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -29,7 +30,13 @@ namespace MyKey.BLL
         }
           private Image ConvertToImage(TabelImaginiEntity tabelImaginiEntity)
         {
-            
+            var imagini = new Image();
+
+            imagini.IDImagini = tabelImaginiEntity.IDImagini;
+            imagini.NumeImagine = tabelImaginiEntity.NumeImagine;
+            imagini.Imagine = tabelImaginiEntity.Imagine;
+
+            return imagini;
 
            
         }

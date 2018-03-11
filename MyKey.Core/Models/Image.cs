@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyKey.Core.Models
 {
-    class Image
+    public class Image
 
     {
         public int IDImagini { get; set; }
