@@ -27,6 +27,11 @@ namespace MyKey.BLL
         {
             throw new NotImplementedException();
         }
+
+        private Categorie ConvertToCategorie(CategorieEntity categorieEntity)
+        {
+
+        }
     }
 
 }

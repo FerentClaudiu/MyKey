@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using MyKey.Repository.Entity;
 using MyKey.Repository;
+using MyKey.Core.Models;
 
 namespace MyKey.BLL
 {
@@ -19,14 +20,31 @@ namespace MyKey.BLL
             _produseRepository = produseRepository;
         }
 
-        public object  GetProduseById(int id)
+        public Product  GetProduseById(int id)
         {
-            return _produseRepository.GetProduseById(id);
+            var produseEntity= _produseRepository. GetProduseById(id);
+
+            return ConvertToProduct(produseEntity);
+
         }
 
         public void Save(ProduseEntity produse)
         {
             throw new NotImplementedException();
+        }
+
+        private Product ConvertToProduct(ProduseEntity produseEntity)
+        {
+            var produse = new Product();
+
+                produse.CategorieID= produseEntity.CategorieID;
+                produse.DescriereProdus = produseEntity.DescriereProdus;
+                produse.IdImagine = produseEntity.IdImagine;
+                produse.IdProdus = produseEntity.IdProdus;
+                produse.NumeProdus = produseEntity.NumeProdus;
+
+            return produse;
+
         }
 
     }

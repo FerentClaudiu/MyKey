@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace MyKey.BLL
 {
     class ImageService: IImageService
@@ -26,5 +27,12 @@ namespace MyKey.BLL
         {
             throw new NotImplementedException();
         }
+          private Image ConvertToImage(TabelImaginiEntity tabelImaginiEntity)
+        {
+            
+
+           
+        }
+       
     }
 }

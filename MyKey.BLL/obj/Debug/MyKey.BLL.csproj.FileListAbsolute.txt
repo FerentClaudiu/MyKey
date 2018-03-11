@@ -10,3 +10,5 @@ E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\bin\Debug\Dapper.dll
 E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\bin\Debug\MyKey.Repository.pdb
 E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\bin\Debug\Dapper.Contrib.xml
 E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\bin\Debug\Dapper.xml
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\bin\Debug\MyKey.Core.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\bin\Debug\MyKey.Core.pdb

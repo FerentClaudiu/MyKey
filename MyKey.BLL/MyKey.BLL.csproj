@@ -51,6 +51,10 @@
     <Compile Include="ProductService.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\MyKey.Core\MyKey.Core.csproj">
+      <Project>{DF47AF7F-3A7D-4C80-B27F-4AD7565FB2C1}</Project>
+      <Name>MyKey.Core</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MyKey.Repository\MyKey.Repository.csproj">
       <Project>{BE6A961B-6721-49D6-BB82-B52948CC12C5}</Project>
       <Name>MyKey.Repository</Name>

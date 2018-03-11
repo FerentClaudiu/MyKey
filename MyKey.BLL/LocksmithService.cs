@@ -1,4 +1,5 @@
 ﻿using MyKey.BLL.Ports;
+using MyKey.Core.Models;
 using MyKey.Repository;
 using MyKey.Repository.Entity;
 using System;
@@ -25,6 +26,21 @@ namespace MyKey.BLL
         public void Save(LocksmithEntity locksmith)
         {
             throw new NotImplementedException();
+        }
+
+        private Locksmith ConvertToLocksmith(LocksmithEntity locksmithEntity)
+        {
+            var locksmith = new Locksmith();
+
+            locksmith.LocksmithID = locksmithEntity.LocksmithID;
+            locksmith.CategorieID = locksmithEntity.CategorieID;
+            locksmith.Adresa = locksmithEntity.Adresa;
+            locksmith.Nume = locksmithEntity.Nume;
+            locksmith.Telefon = locksmithEntity.Telefon;
+
+            return locksmith;
+
+            
         }
     }
 
