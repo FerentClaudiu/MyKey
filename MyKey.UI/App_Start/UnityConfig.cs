@@ -59,6 +59,7 @@ namespace MyKey.UI
             container.RegisterType<IImageService, ImageService>();
             container.RegisterType<ILocksmithService, LocksmithService>();
             container.RegisterType<IProductService, ProductService>();
+            container.RegisterType<IRegisterService, RegisterService>();
         }
     }
 }
