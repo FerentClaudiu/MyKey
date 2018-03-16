@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace MyKey.BLL.Ports
 {
-    interface IImageService
+    public interface IImageService
     {
         void Save(TabelImaginiEntity tabelImagini);
     }

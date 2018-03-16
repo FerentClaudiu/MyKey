@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace MyKey.BLL.Ports
 {
-    interface ILocksmithService
+     public interface ILocksmithService
     {
         void Save(LocksmithEntity locksmith);
     }

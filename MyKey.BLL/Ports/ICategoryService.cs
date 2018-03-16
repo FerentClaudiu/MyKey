@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace MyKey.BLL.Ports
 {
-    interface ICategoryService
+    public interface ICategoryService
     {
         void Save(CategorieEntity categorie);
     }

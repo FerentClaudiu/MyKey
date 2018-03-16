@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace MyKey.BLL
 {
-    class ImageService: IImageService
+    public class ImageService: IImageService
     {
         private readonly TabelImaginiRepository _tabelImaginiRepository;
 

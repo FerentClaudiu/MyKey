@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace MyKey.BLL
 {
-    class CategoryService: ICategoryService
+    public class CategoryService: ICategoryService
     {
         private readonly CategorieRepository _categorieRepository;
 

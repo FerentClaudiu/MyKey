@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace MyKey.BLL
 {
-    class LocksmithService:ILocksmithService
+     public class LocksmithService:ILocksmithService
     {
         private readonly LocksmithRepository _locksmithRepository;
 
