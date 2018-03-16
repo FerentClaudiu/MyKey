@@ -93,3 +93,17 @@ E:\#Curs C#.Net\MyKey\MyKey\MyKey.UI\bin\roslyn\System.IO.FileSystem.dll
 E:\#Curs C#.Net\MyKey\MyKey\MyKey.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
 E:\#Curs C#.Net\MyKey\MyKey\MyKey.UI\bin\roslyn\System.Reflection.Metadata.dll
 E:\#Curs C#.Net\MyKey\MyKey\MyKey.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.UI\bin\MyKey.BLL.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.UI\bin\MyKey.Repository.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.UI\bin\Unity.Abstractions.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.UI\bin\Unity.Container.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.UI\bin\Unity.Mvc.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.UI\bin\WebActivatorEx.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.UI\bin\MyKey.Core.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.UI\bin\Dapper.Contrib.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.UI\bin\Dapper.dll
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.UI\bin\MyKey.BLL.pdb
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.UI\bin\MyKey.Repository.pdb
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.UI\bin\MyKey.Core.pdb
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.UI\bin\Dapper.Contrib.xml
+E:\#Curs C#.Net\MyKey\MyKey\MyKey.UI\bin\Dapper.xml
