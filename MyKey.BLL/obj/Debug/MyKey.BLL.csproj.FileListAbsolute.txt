@@ -12,3 +12,17 @@ E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\bin\Debug\Dapper.Contrib.xml
 E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\bin\Debug\Dapper.xml
 E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\bin\Debug\MyKey.Core.dll
 E:\#Curs C#.Net\MyKey\MyKey\MyKey.BLL\bin\Debug\MyKey.Core.pdb
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.BLL\bin\Debug\MyKey.BLL.dll
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.BLL\bin\Debug\MyKey.BLL.pdb
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.BLL\bin\Debug\MyKey.Core.dll
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.BLL\bin\Debug\MyKey.Repository.dll
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.BLL\bin\Debug\Dapper.Contrib.dll
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.BLL\bin\Debug\Dapper.dll
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.BLL\bin\Debug\MyKey.Core.pdb
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.BLL\bin\Debug\MyKey.Repository.pdb
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.BLL\bin\Debug\Dapper.Contrib.xml
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.BLL\bin\Debug\Dapper.xml
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.BLL\obj\Debug\MyKey.BLL.csprojResolveAssemblyReference.cache
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.BLL\obj\Debug\MyKey.BLL.csproj.CoreCompileInputs.cache
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.BLL\obj\Debug\MyKey.BLL.dll
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.BLL\obj\Debug\MyKey.BLL.pdb

@@ -8,3 +8,13 @@ E:\#Curs C#.Net\MyKey\MyKey\MyKey.Repository\obj\Debug\MyKey.Repository.csprojRe
 E:\#Curs C#.Net\MyKey\MyKey\MyKey.Repository\obj\Debug\MyKey.Repository.csproj.CoreCompileInputs.cache
 E:\#Curs C#.Net\MyKey\MyKey\MyKey.Repository\obj\Debug\MyKey.Repository.dll
 E:\#Curs C#.Net\MyKey\MyKey\MyKey.Repository\obj\Debug\MyKey.Repository.pdb
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.Repository\bin\Debug\MyKey.Repository.dll
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.Repository\bin\Debug\MyKey.Repository.pdb
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.Repository\bin\Debug\Dapper.Contrib.dll
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.Repository\bin\Debug\Dapper.dll
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.Repository\bin\Debug\Dapper.xml
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.Repository\bin\Debug\Dapper.Contrib.xml
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.Repository\obj\Debug\MyKey.Repository.csprojResolveAssemblyReference.cache
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.Repository\obj\Debug\MyKey.Repository.csproj.CoreCompileInputs.cache
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.Repository\obj\Debug\MyKey.Repository.dll
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.Repository\obj\Debug\MyKey.Repository.pdb

@@ -4,3 +4,9 @@ E:\#Curs C#.Net\MyKey\MyKey\MyKey.Core\obj\Debug\MyKey.Core.csproj.CoreCompileIn
 E:\#Curs C#.Net\MyKey\MyKey\MyKey.Core\obj\Debug\MyKey.Core.dll
 E:\#Curs C#.Net\MyKey\MyKey\MyKey.Core\obj\Debug\MyKey.Core.pdb
 E:\#Curs C#.Net\MyKey\MyKey\MyKey.Core\obj\Debug\MyKey.Core.csprojResolveAssemblyReference.cache
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.Core\bin\Debug\MyKey.Core.dll
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.Core\bin\Debug\MyKey.Core.pdb
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.Core\obj\Debug\MyKey.Core.csprojResolveAssemblyReference.cache
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.Core\obj\Debug\MyKey.Core.csproj.CoreCompileInputs.cache
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.Core\obj\Debug\MyKey.Core.dll
+D:\Work\Cursuri\.NET Beginners\MyKey\MyKey.Core\obj\Debug\MyKey.Core.pdb
